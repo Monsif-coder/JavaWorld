@@ -1,0 +1,43 @@
+[200~studying successes is more efficient, and furthermore when your turn comes you will know how to succeed
+rather than how to fail!
+I am, as it were, only a coach. I cannot run the mile for you; at best I can discuss styles and criticize
+yours. You know you must run the mile if the athletics course is to be of benefit to you—hence you must
+think carefully about what you hear or read in this book if it is to be effective in changing you—which must
+obviously be the purpose of any course. Again, you will get out of this course only as much as you put in,
+and if you put in little effort beyond sitting in the class or reading the book, then it is simply a waste of your
+time. You must also mull things over, compare what I say with your own experiences, talk with others, and
+make some of the points part of your way of doing things.
+Since the subject matter is “style”, I will use the comparison with teaching painting. Having learned the
+fundamentals of painting, you then study under a master you accept as being a great painter; but you know
+you must forge your own style out of the elements of various earlier painters plus your native abilities. You
+must also adapt your style to fit the future, since merely copying the past will not be enough if you aspire to
+future greatness—a matter I assume, and will talk about often in the book. I will show you my style as best I
+can, but, again, you must take those elements of it which seem to fit you, and you must finally create your
+own style. Either you will be a leader, or a follower, and my goal is for you to be a leader. You cannot
+adopt every trait I discuss in what I have observed in myself and others; you must select and adapt, and
+make them your own if the course is to be effective.
+Even more difficult than what to select is that what is a successful style in one age may not be appropriate
+to the next age! My predecessors at Bell Telephone Laboratories used one style; four of us who came in all
+at about the same time, and had about the same chronological age, found our own styles and as a result we
+rather completely transformed the overall style of the Mathematics Department, as well as many parts of the
+whole Laboratories. We privately called ourselves “The four young Turks”, and many years later I found
+top management had called us the same!
+I return to the topic of education. You all recognize there is a significant difference between education
+and training.
+Education is what, when, and why to do things, Training is how to do it.
+Either one without the other is not of much use. You need to know both what to do and how to do it. I have
+already compared mental and physical training and said to a great extent in both you get out of it what you
+put into it—all the coach can do is suggest styles and criticize a bit now and then. Because of the usual size
+of these classes, or because you are reading the book, there can be little direct criticism of your thinking by
+me, and you simply have to do it internally and between yourselves in conversations, and apply the things I
+say to your own experiences. You might think education should precede training, but the kind of educating I
+am trying to do must be based on your past experiences and technical knowledge. Hence this inversion of
+what might seem to be reasonable. In a real sense I am engaged in “meta-education”, the topic of the course
+is education itself and hence our discussions must rise above it—“meta-education”, just as metaphysics was
+supposed to be above physics in Aristotle’s time (actually “follow”, “transcend” is the translation of
+“meta”).
+This book is aimed at your future, and we must examine what is likely to be the state of technology
+(Science and Engineering) at the time of your greatest contributions. It is well known that since about Isaac
+Newton’s time (1642–1727) knowledge of the type we are concerned with has about doubled every 17
+years. First, this may be measured by the books published (a classic observation is libraries must double
+their holdings every 17 years if they are to maintain their relative position). Second, when I went to Bell

@@ -1,0 +1,33 @@
+===== TEXT ANALYSIS RESULTS =====
+
+Character Frequencies:
+a: 255
+b: 61
+c: 107
+d: 97
+e: 383
+f: 72
+g: 55
+h: 136
+i: 243
+j: 2
+k: 24
+l: 131
+m: 81
+n: 214
+o: 272
+p: 51
+q: 0
+r: 155
+s: 221
+t: 326
+u: 154
+v: 25
+w: 65
+x: 6
+y: 108
+z: 4
+
+Word Statistics:
+Total words: 762
+Longest word: chronological
